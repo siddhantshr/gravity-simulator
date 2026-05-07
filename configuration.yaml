@@ -1,0 +1,18 @@
+bodies:
+  - mass: 1.989e30
+    pos: [0.0, 0.0]
+    vel: [0.0, 0.0]
+    radius: 6.963e9
+    type: sun
+
+  - mass: 5.972e24
+    pos: [1.496e11, 0.0]
+    vel: [0.0, 29780.0]
+    radius: 6.371e8
+    type: earth
+
+  - mass: 6.39e23
+    pos: [2.279e11, 0.0]
+    vel: [0.0, 24007.0]
+    radius: 3.389e8
+    type: ice

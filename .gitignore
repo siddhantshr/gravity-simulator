@@ -1,0 +1,14 @@
+build/
+*.o
+*.obj
+*.so
+*.exe
+*.dll
+*.dylib
+*.log
+*.tmp
+*.out
+*.bin
+*.cache
+*.DS_Store
+*.vscode/
