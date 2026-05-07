@@ -1,0 +1,54 @@
+bodies:
+  - mass: 1.989e30
+    pos: [0, 0]
+    vel: [0, 0]
+    radius: 6.963e9
+    type: sun
+
+  - mass: 3.285e23
+    pos: [5.79e10, 0]
+    vel: [0, 47400]
+    radius: 2.439e8
+    type: earth
+
+  - mass: 4.867e24
+    pos: [1.082e11, 0]
+    vel: [0, 35020]
+    radius: 6.052e8
+    type: ice
+
+  - mass: 5.972e24
+    pos: [1.496e11, 0]
+    vel: [0, 29780]
+    radius: 6.371e8
+    type: earth
+
+  - mass: 6.39e23
+    pos: [2.279e11, 0]
+    vel: [0, 24070]
+    radius: 3.389e8
+    type: ice
+
+  - mass: 1.898e27
+    pos: [7.785e11, 0]
+    vel: [0, 13070]
+    radius: 6.991e9
+    type: earth
+
+  - mass: 5.683e26
+    pos: [1.433e12, 0]
+    vel: [0, 9680]
+    radius: 5.823e9
+    type: ice
+
+  - mass: 8.681e25
+    pos: [2.877e12, 0]
+    vel: [0, 6800]
+    radius: 2.536e9
+    type: earth
+
+  - mass: 1.024e26
+    pos: [4.503e12, 0]
+    vel: [0, 5430]
+    radius: 2.462e9
+    type: ice

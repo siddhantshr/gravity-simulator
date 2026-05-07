@@ -1,0 +1,20 @@
+bodies:
+  # Binary stars
+  - mass: 2.0e30
+    pos: [-7.5e10, 0]
+    vel: [0, -12000]
+    radius: 5.0e9
+    type: sun
+
+  - mass: 2.0e30
+    pos: [7.5e10, 0]
+    vel: [0, 12000]
+    radius: 5.0e9
+    type: sun
+
+  # Chaotic intruder planet
+  - mass: 6.0e24
+    pos: [0, 2.0e11]
+    vel: [-18000, 0]
+    radius: 7.0e8
+    type: earth
